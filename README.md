@@ -55,7 +55,7 @@
 dependencies:
   esp_lcd_st77912:
     version: "^1.0.0"
-    git: "https://gitee.com/riverchuan/esp_lcd_st77912.git"
+    git: "https://github.com/river147/esp_lcd_st77912.git"
 ```
 
 ### 运行测试
@@ -128,6 +128,7 @@ esp_err_t ret = esp_lcd_st77912_new(&config, &handle);
 ## 🤝 贡献
 
 欢迎提交Issue和Pull Request来改进项目。
+
 
 
 
