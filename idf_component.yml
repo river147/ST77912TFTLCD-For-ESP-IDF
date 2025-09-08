@@ -1,0 +1,5 @@
+dependencies:
+  cmake_utilities: 0.*
+  idf: '>5.0.4,!=5.1.1'
+description: "ESP LCD ST77912 TFT LCD driver for ESP-IDF (repo: https://gitee.com/riverchuan/esp_lcd_st77912)"
+version: 1.0.0
